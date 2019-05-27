@@ -1,0 +1,77 @@
+.box
+{
+	margin-top:80px; 
+	position: absolute;
+	top: 50%;
+	left:50%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+-webkit-transform:translate(-50%,-50%);
+	padding: 20px;
+	box-sizing: border-box;
+	 background:rgba(221, 29, 46,0.5);
+	 border-radius: 12px;
+	 box-shadow: 0 5px 15px rgba(0,0,0,1);
+	 display: flex;
+	 display: -webkit-flex; 
+/*	 float: left;
+	 width: 50%;
+
+*/
+
+height: auto;
+width: auto;
+}
+.box2{
+display: -webkit-flex; 
+-webkit-transform:translate(-50%,-50%);
+
+	height: auto;
+margin-top:460px; 
+	position: absolute;
+	top: 50%;
+	/*text-align: center;*/
+left: 50%;
+	transform:translate(-50%,-50%);
+	padding: 20px;
+	box-sizing: border-box;
+	 background:rgba(221, 29, 46,0.5);
+	 border-radius: 12px;
+	 box-shadow: 0 5px 15px rgba(0,0,0,1);
+	 display: flex;
+	 /*float: left;*/
+	 /*width:50%;	*/
+	 width: auto;
+}
+.box3{
+display: -webkit-flex; 
+-webkit-transform:translate(-50%,-50%);
+
+	width: auto;
+	height: auto;
+margin-top:840px; 
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	padding: 20px;
+	box-sizing: border-box;
+	 background:rgba(221, 29, 46,0.5);
+	 border-radius: 12px;
+	 box-shadow: 0 5px 15px rgba(0,0,0,1);
+	 display: flex;
+	 /*float: left;*/
+	 /*width:50%;	*/
+}
+ .imagebox{
+	width:150px;
+}
+.name{
+	font-size: 40px;
+	font-family: 'Righteous', cursive;
+
+}
+.pricetag{
+	font-size: 25px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
